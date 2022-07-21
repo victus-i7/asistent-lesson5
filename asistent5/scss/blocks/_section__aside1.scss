@@ -1,0 +1,28 @@
+.section__aside1 {
+
+    margin-bottom: 22px;
+    margin-left: 14px;
+
+    &--list1 {
+        display: flex;
+
+        &--item1:nth-child(1) {
+            width: 287px;
+        }
+
+        &--item1:nth-child(2) {
+            width: 150px;
+
+        }
+
+        &--item1:nth-child(3) {
+            width: 157px;
+        }
+
+        &--item1:nth-child(4) {
+            width: 158px;
+        }
+
+
+    }
+}
